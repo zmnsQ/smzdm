@@ -11,7 +11,7 @@
 - `什么值得买`每日签到
 - `GitHub Actions`每日定时运行
 - 通过`pushplus`推送运行结果到微信
-
+   
 ## 2. 使用方法
 1. Fork[此仓库项目](https://github.com/easypickings/smzdm_bot)>点击右上角Fork按钮即可, 欢迎点`star`~
 2. Secret新增`COOKIE`, 填入[什么值得买官网](https://www.smzdm.com/)获取的Cookie信息, [详见](#31-cookie获取方法)
